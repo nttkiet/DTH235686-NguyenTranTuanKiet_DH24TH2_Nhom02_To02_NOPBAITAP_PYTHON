@@ -1,3 +1,1 @@
-print ("toi dep trai")
-
-print ("ahha")
+print("toi khong hieu ve git hub")
