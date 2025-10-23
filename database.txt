@@ -1,0 +1,7 @@
+sp1;CocaCola;15.5sp2;Bưởi 5 Roi;18.0sp3;Bia 333;14.5
+sp1;CocaCola;15.5sp2;Bưởi 5 Roi;18.0sp3;Bia 333;14.5
+sp1;CocaCola;15.5sp2;Bưởi 5 Roi;18.0sp3;Bia 333;14.5
+sv1;Cocacolala;15.5sp2;Bưởi 5 Roi;18.0sp3;Bia 333;14.5
+sv1;Cocacolala;15.5sp2;Bưởi 5 Roi;18.0sp3;Bia 333;14.5
+sv1;Cocacolala;15.5sp2;Bưởi 5 Roi;18.0sp3;Bia 333;14.5
+sv1;Cocacolala;15.5sp2;Bưởi 5 Roi;18.0sp3;Bia 333;14.5
