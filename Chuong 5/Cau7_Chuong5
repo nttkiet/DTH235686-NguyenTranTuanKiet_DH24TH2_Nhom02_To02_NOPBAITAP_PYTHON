@@ -1,0 +1,8 @@
+#cau7
+def ToiUuDanhTu(s):
+    s = " ".join(s.split())
+    words = s.lower().split()
+    return " ".join([w.capitalize() for w in words])
+
+s = "     TRần    duY            thAnH   "
+print("Chuỗi tối ưu:", ToiUuDanhTu(s))

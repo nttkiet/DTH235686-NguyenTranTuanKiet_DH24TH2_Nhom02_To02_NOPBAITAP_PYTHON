@@ -1,0 +1,8 @@
+#cau6
+import re
+
+def NegativeNumberInStrings(s):
+    return re.findall(r'-\d+', s)
+
+s = "abc-5xyz-12k9l--p"
+print("Các số âm trong chuỗi:", NegativeNumberInStrings(s))

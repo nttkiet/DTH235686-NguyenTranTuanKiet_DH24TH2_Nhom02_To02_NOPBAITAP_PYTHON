@@ -1,0 +1,13 @@
+#cau8
+import os
+
+def LayTenFile(path):
+    return os.path.basename(path)
+
+def LayTenBaiHat(path):
+    tenfile = LayTenFile(path)
+    return os.path.splitext(tenfile)[0]
+
+path = "d:\\music\\muabui.mp3"
+print("Tên file:", LayTenFile(path))
+print("Tên bài hát:", LayTenBaiHat(path))
