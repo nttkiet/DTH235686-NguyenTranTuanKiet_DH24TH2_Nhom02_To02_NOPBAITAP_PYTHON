@@ -1,0 +1,4 @@
+DM:DM01,Điện thoại
+DM:DM02,Laptop
+SP:SP01,iPhone 15,25000000.0,DM01
+SP:SP02,MacBook Air,32000000.0,DM02

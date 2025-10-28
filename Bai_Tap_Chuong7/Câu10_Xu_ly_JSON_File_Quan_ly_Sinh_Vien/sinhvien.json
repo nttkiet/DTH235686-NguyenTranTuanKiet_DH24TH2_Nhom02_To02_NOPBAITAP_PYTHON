@@ -1,0 +1,22 @@
+{
+    "lops": [
+        {
+            "ma_lop": "CTK45",
+            "ten_lop": "Công nghệ thông tin K45"
+        }
+    ],
+    "sinhviens": [
+        {
+            "ma": "SV01",
+            "ten": "An",
+            "namsinh": 2004,
+            "ma_lop": "CTK45"
+        },
+        {
+            "ma": "SV02",
+            "ten": "Bình",
+            "namsinh": 2003,
+            "ma_lop": "CTK45"
+        }
+    ]
+}
